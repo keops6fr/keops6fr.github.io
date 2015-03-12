@@ -1,0 +1,13 @@
+header, footer, nav, article, figure, figcaption {
+  display: block;
+}
+
+Body {
+  color: blue;
+  background-color: white;
+  background-position: center;
+  font-family: arial;
+  line-height: 1.4em;
+  margin: 0px;
+}
+
