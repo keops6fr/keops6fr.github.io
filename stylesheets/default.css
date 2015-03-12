@@ -11,3 +11,28 @@ Body {
   margin: 0px;
 }
 
+header {
+    height: 160px;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+}
+
+hgroup {
+    margin-top: 40px;
+}
+
+figure {
+    float: left;
+    width: 290px;
+    height:220px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+figcaption {
+    text-align: center;
+}
