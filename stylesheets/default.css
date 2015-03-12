@@ -36,3 +36,10 @@ figure {
 figcaption {
     text-align: center;
 }
+
+article {
+    float: left;
+    clear: both;
+    overflow: auto;
+    width: 659px;
+}
