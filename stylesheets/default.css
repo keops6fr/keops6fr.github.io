@@ -1,5 +1,7 @@
+
 header, footer, nav, article, figure, figcaption {
   display: block;
+  background: linear-gradient(to right, black, lightgrey);
 }
 
 Body {
@@ -8,22 +10,23 @@ Body {
   background-position: center;
   font-family: times;
   line-height: 1.4em;
-  margin: 0px;
+  padding-top: 0px;
 }
 
 header {
     height: 100px;
     text-align: center;
-    border: 1px solid black;
+    background: linear-gradient(to bottom right, black, lightgrey);
     font-family: arial;
-    background-color: lightgrey;
+    margin
 }
 
 nav li {
     display: inline;
     padding: 0px 55px 0px 15px;
-    border: 1px solid black;
-    background-color: grey;
+    float: bottom;
+    background: linear-gradient(to right, grey, lightgrey);
+
 }
 
 hgroup {
